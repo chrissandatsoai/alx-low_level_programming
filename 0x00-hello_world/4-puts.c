@@ -1,9 +1,12 @@
 #include <stdio.h>
-**
-*print a line of code using puts
+\ **
+* main-Entry point
 *
-*Return : 0
-*\
+* Description: print a line of code using puts
+*
+* Return :always return 0(success)
+*
+*/
 int main(void)
 {
 put("\"Programming is like building a multilingual puzzle") :
