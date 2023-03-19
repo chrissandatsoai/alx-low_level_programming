@@ -1,8 +1,6 @@
 #include <stdio.h>
 \**
-* main-Entry point
-*
-* Description: print a line of code using puts
+* main- print a line of code using puts
 *
 * Return :always return 0(success)
 *
