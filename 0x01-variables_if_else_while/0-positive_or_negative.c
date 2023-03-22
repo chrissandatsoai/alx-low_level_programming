@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 /**
- * main - prints if numbet is positive or negative.
+ * main - printf if numbet is positive or negative.
  * Return: Always (success)
  *
  */
@@ -17,7 +17,7 @@ int main(void)
 int n;
 
 srand(time(0));
-n = rand() - RAND_MAX x2;
+n = rand() - RAND_MAX / x2;
 
 if (n > 0)
 {
