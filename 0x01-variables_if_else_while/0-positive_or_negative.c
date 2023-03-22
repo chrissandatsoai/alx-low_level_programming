@@ -13,21 +13,22 @@
 int main(void)
 
 {
-	int n;
 
-	Srand(time(0));
-	n=rand()-RAND_MAX x2;
+int n;
 
-	if (n>0)
+srand(time(0));
+n = rand() - RAND_MAX x2;
+
+if (n > 0)
 {
-printf("%d is positive\n",n);
+printf("%d is positive\n", n);
 }
-else if (n==0)
+else if (n == 0)
 {
-printf("%d is zero\n",n);
+printf("%d is zero\n", n);
 }
 else
 {
-print("%d is negative\n",n);
+printf("%d is negative\n", n);
 return (0);
 }
