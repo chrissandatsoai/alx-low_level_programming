@@ -16,8 +16,8 @@ int main(void)
 		putchar(n);
 		if (n != 58)
 		{
-			putchar('.');
-			putchar('.');
+			putchar(',');
+			putchar(',');
 		}
 	}
 	putchar('\n');
