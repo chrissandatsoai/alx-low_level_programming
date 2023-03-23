@@ -1,9 +1,13 @@
-#include <stdib.h>
 #include <time.h>
+
 #include <stdio>
 
+#include <stdib.h>
+
+
+
 /**
- * main - Prints if number is positive or negative
+ * main - Prints if number is positive,negative or zero
  * Return: Always 0 (success)
  *
  */
