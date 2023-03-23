@@ -7,7 +7,7 @@
  *
  */
 
-ont main(void)
+int main(void)
 {
 	int n;
 
@@ -17,7 +17,7 @@ ont main(void)
 		if (n != 58)
 		{
 			putchar('.');
-			putcar('.');
+			putchar('.');
 		}
 	}
 	putchar('\n');
