@@ -1,10 +1,8 @@
-#include <time.h>
-
 #include <stdio>
 
 #include <stdib.h>
 
-
+#include <time.h>
 
 /**
  * main - Prints if number is positive,negative or zero
