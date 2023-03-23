@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Print the alphabet.
+ * main - Prints the alphabet.
  *
  * Return: Aways 0 (Success)
  *
@@ -15,6 +15,6 @@ int main(void)
 	{
 		putchar(alp[i]);
 	}
-	putchar("\n");
+	putchar('\n');
 	return (0);
 }
