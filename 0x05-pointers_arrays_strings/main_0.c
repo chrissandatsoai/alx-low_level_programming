@@ -11,7 +11,7 @@ int main(void)
 {
 	char *str;
 
-	str = "Holberton!";
+	str = "Holberton\!";
 	print_rev(str);
 	return (0);
 }
